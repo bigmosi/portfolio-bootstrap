@@ -11,7 +11,7 @@ body {
 .title {
    color: #fff;
    font-size: 90px;
-   font-family: Roboto, sans-serif;
+font-family: Roboto, sans-serif;
 }
 
  ul {
@@ -32,14 +32,13 @@ p {
 }
 
 .tech {
-   color: #9390FF;
+   color: #9390ff;
    font-family: Roboto, sans-serif;
    font-size: 18px;
-
 }
 
 .sub-title {
-  color: #9390FF;
+  color: #9390ff;
   font-size: 64px;
   font-family: Roboto, sans-serif;
 }
