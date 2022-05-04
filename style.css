@@ -8,10 +8,10 @@ body {
   background: #191765;
 }
 
- .title {
-    color: #fff;
-    font-size: 90px;
-    font-family: Roboto, sans-serif;
+.title {
+   color: #fff;
+   font-size: 90px;
+   font-family: Roboto, sans-serif;
 }
 
  ul {
@@ -39,7 +39,7 @@ p {
 }
 
 .sub-title {
-    color: #9390FF;
-    font-size: 64px;
-    font-family: Roboto, sans-serif;
+  color: #9390FF;
+  font-size: 64px;
+  font-family: Roboto, sans-serif;
 }
