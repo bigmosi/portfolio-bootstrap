@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Roboto:ital,wght@0,100;0,300;0,700;1,100&display=swap");
 
 html {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
 }
 *, *:before, *:after {
-    box-sizing: inherit;
-    -webkit-box-sizing: inherit;
-    -moz-box-sizing: inherit;
+      box-sizing: inherit;
+      -webkit-box-sizing: inherit;
+      -moz-box-sizing: inherit;
 }
 
 body {
