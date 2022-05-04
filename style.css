@@ -1,17 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter&family=Roboto:ital,wght@0,100;0,300;0,700;1,100&display=swap");
 
 * {
-      box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 body {
-    background: #191765;
+     background: #191765;
 }
 
  .title {
-      color: #fff;
-      font-size: 90px;
-      font-family: Roboto, sans-serif;
+     color: #fff;
+     font-size: 90px;
+     font-family: Roboto, sans-serif;
 }
 
  ul {
@@ -26,7 +26,7 @@ h3 {
   color: #fff;
 }
 
-p{
+p {
   font-size: 20px;
   font-family: Roboto, sans-serif;
 }
