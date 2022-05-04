@@ -12,17 +12,17 @@ html {
       -moz-box-sizing: inherit;
 }
 
-body{
+ body{
     background: #191765;
 }
 
-.title {
+ .title {
       color: #fff;
       font-size: 90px;
       font-family: Roboto, sans-serif;
 }
 
-ul {
+ ul {
     list-style-type: none;
 }
 
@@ -39,7 +39,7 @@ p{
   font-family: Roboto, sans-serif;
 }
 
-.tech {
+ .tech {
      color: #9390FF;
      font-family: Roboto, sans-serif;
      font-size: 18px;
