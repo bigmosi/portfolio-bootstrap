@@ -12,13 +12,13 @@ html {
 }
 
 body {
-    background: #191765;
+     background: #191765;
 }
 
 .title {
-    color: #fff;
-    font-size: 90px;
-    font-family: Roboto, sans-serif;
+      color: #fff;
+      font-size: 90px;
+      font-family: Roboto, sans-serif;
 }
 
 ul {
@@ -26,7 +26,7 @@ ul {
 }
 
 ul li {
-    color: #fff;
+     color: #fff;
 }
 
 h3 {
@@ -39,14 +39,14 @@ p {
 }
 
 .tech {
-    color: #9390FF;
-    font-family: Roboto, sans-serif;
-    font-size: 18px;
+      color: #9390FF;
+      font-family: Roboto, sans-serif;
+      font-size: 18px;
 
 }
 
 .sub-title {
-    color: #9390FF;
-    font-size: 64px;
-    font-family: Roboto, sans-serif;
+      color: #9390FF;
+      font-size: 64px;
+      font-family: Roboto, sans-serif;
 }
